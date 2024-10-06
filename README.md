@@ -15,7 +15,7 @@ Digital Display: The app features a clear and easy-to-read digital display, show
 
 
 
-[stopwatch_video.mp4](..%2Fstopwatch_video.mp4)
+https://github.com/user-attachments/assets/390602be-4b3b-419a-8679-98ece0f64319
 
 
 
